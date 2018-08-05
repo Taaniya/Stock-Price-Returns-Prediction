@@ -1,5 +1,6 @@
 # Stock-Price-Returns-Prediction 
 
+A machine learning pipeline to predict stock price returns. 
 
 ## Overview
 
