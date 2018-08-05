@@ -39,6 +39,7 @@ Following 12 technical indicators have been derived from the stock price data an
 
 * Pandas
 * LightBGM 
+* numpy
 
 The above libaries can be installed using [pip](https://pypi.org/project/pip/)   
 
