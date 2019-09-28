@@ -46,5 +46,6 @@ Following 12 technical indicators have been derived from the stock price data an
 The above libaries can be installed using [pip](https://pypi.org/project/pip/)   
 
 
-
+## References
+* [Predicting the direction of stock market prices using random forest](https://arxiv.org/abs/1605.00003)
 
